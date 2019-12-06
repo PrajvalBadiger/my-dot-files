@@ -144,10 +144,6 @@ let mapleader =","
 "Quick quit commands
 noremap <Leader>q :quit<CR>
 noremap <Leader>E :qa!<CR>
-nnoremap ; :
-nnoremap : ;
-vnoremap ; :
-vnoremap : ;
 "bind move the windows arround
 map <Leader>h <c-w>k
 map <Leader>j <c-w>j
